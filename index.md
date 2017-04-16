@@ -1,10 +1,11 @@
 # Daniel Heiberger
 
-## About
+
+### About
 
 I am a Data Scientist based in Hong Kong, familiar with contemporay Python-driven data science workflows, with specific experience in financial risk prediction.
 
-## Data Science
+### Data Science
 
 My most recent work is my final project for General Assembly's Data Science class:
 
@@ -18,6 +19,6 @@ _To model bankruptcy risk and predict whether or not a company will go bankrupt 
 
 Many additional working files can be found at my Github Gist [pages](https://gist.github.com/heiberger).
   
-## Contact
+### Contact
 
 Please email heiberger@gmail.com or phone 6147-5408.
