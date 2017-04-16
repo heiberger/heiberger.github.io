@@ -1,37 +1,20 @@
-## Welcome to my index page
+## About
 
-You can use the [editor on GitHub](https://github.com/heiberger/heiberger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Daniel Heiberger is a Data Scientist based in Hong Kong, familiar with contemporay Python-driven data science workflows, with specific experience in financial risk prediction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data Science
 
-### Markdown
+My most recent work is my final project for General Assembly's Data Science class:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__Bankruptcy Risk in the Polish Manufacturing Sector__
 
-```markdown
-Syntax highlighted code block
+_To model bankruptcy risk and predict whether or not a company will go bankrupt based on a number of financial predictors such as profit, assets, and liabilities. The Altman Z-score is a comomon metric for predicting bankruptcy risk and generally works well as a predictor a year out from a bankruptcy event, but performs less well at longer time frames. This project aims to improve on the Altman Z-score, especially over longer times._
 
-# Header 1
-## Header 2
-### Header 3
+[Final presentation](https://drive.google.com/file/d/0BzhZx0mGJKZ9SE9NVGlNNHV4YVE/view)
 
-- Bulleted
-- List
+[Overview](https://gist.github.com/heiberger/0db198079a14ceba5e8580e14fe38aa3)
+  
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heiberger/heiberger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please email heiberger@gmail.com or phone 6147-5408.
