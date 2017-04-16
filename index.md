@@ -1,6 +1,8 @@
+# Daniel Heiberger
+
 ## About
 
-Daniel Heiberger is a Data Scientist based in Hong Kong, familiar with contemporay Python-driven data science workflows, with specific experience in financial risk prediction.
+I am a Data Scientist based in Hong Kong, familiar with contemporay Python-driven data science workflows, with specific experience in financial risk prediction.
 
 ## Data Science
 
