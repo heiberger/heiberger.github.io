@@ -12,8 +12,9 @@ _To model bankruptcy risk and predict whether or not a company will go bankrupt 
 
 [Final presentation](https://drive.google.com/file/d/0BzhZx0mGJKZ9SE9NVGlNNHV4YVE/view)
 [Overview](https://gist.github.com/heiberger/0db198079a14ceba5e8580e14fe38aa3)
-  
 
-### Contact
+Many additional working files can be found at my Github Gist [pages](https://gist.github.com/heiberger).
+  
+## Contact
 
 Please email heiberger@gmail.com or phone 6147-5408.
