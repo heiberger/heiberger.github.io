@@ -1,6 +1,6 @@
 # Custom Amplifers
 
-
+![Image of HiFi Amplifier](/images/hifi.jpg))
 ### About
 
 I build custom amplifiers.
