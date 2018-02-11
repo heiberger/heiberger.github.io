@@ -4,24 +4,26 @@
 
 ### About
 
-We build custom amplifiers for hifi and guitar, using vacuum tubes (valves).
+We build custom amplifiers for hifi and guitar, using vacuum tubes (valves). All amplifiers are hand-wired using turret and eyelet boards. Most common audio tubes can be used however we are particularly fond of 6V6GT output tubes. Tubes choices are current production or new-old-stock (purchasers must provide own NOS tubes).
 
 ### Types
 
-Almost any amplifier type can be made-to-order.
+Almost any amplifier type can be made-to-order. We discuss the needs of the user and, in the case of guitar amplifiers, engage in an iterative process where we tailor the sound to suit the user. Amplifier can range from low-wattage single-ended amplifiers all the way to high-powered push-pull models suitable for the largest venues.
 
 ### Sample Amplifiers
 
-<img src="/images/four_day.jpg" alt="Four-Day Guitar Amplifier" width="200">
+<img src="/images/four_day.jpg" alt="Four-Day Guitar Amplifier" width="600">
 
-<img src="/images/hiwatt.jpg" alt="Image of Hiwatt-Type Amplifier">
+<img src="/images/hiwatt.jpg" alt="Image of Hiwatt-Type Amplifier" width="600">
 
-<img src="/images/red_combo.jpg" alt="Image of Red Combo Amplifier">
+<img src="/images/red_combo.jpg" alt="Image of Red Combo Amplifier" width="600">
 
-<img src="/images/expedit.jpg" alt="Image of Expedit Amplifier">
+<img src="/images/expedit.jpg" alt="Image of Expedit Amplifier" width="600">
 
-Many additional working files can be found at my Github Gist [pages](https://gist.github.com/heiberger).
-  
+### Promotions
+
+Contact us for special offers.
+
 ### Pricing
 
-Please email heiberger@gmail.com or phone 6147-5408.
+Pricing starts at $20K. Email heiberger@gmail.com with your needs to get a specific estimate.
