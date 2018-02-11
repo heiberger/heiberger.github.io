@@ -1,6 +1,6 @@
 # Custom Amplifers
 
-<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier" style="width: 50%;"/>
+<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier" width="50%">
 
 ### About
 
