@@ -12,6 +12,8 @@ Almost any amplifier type can be made-to-order. We discuss the needs of the user
 
 Models can be single or multiple channel and can incoporate any desired features like effects loops, reverb, and adjustable output power.
 
+Cabinets are constructed using fine woods and finishes. Any type of wood can be specified. Options include finger and dove-tail joints.
+
 ### Sample Amplifiers
 
 <img src="/images/four_day.jpg" alt="Four-Day Guitar Amplifier" width="600">
