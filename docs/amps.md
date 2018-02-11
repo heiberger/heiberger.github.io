@@ -1,22 +1,24 @@
-# Custom Amplifers
+# Custom Tube Amplifers
 
-<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier" width="50%">
+<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier">
 
 ### About
 
-I build custom amplifiers.
+We build custom amplifiers for hifi and guitar, using vacuum tubes (valves).
 
 ### Types
 
-My most recent work is my final project for General Assembly's Data Science class:
+Almost any amplifier type can be made-to-order.
 
-__Bankruptcy Risk in the Polish Manufacturing Sector__
+### Sample Amplifiers
 
-_To model bankruptcy risk and predict whether or not a company will go bankrupt based on a number of financial predictors such as profit, assets, and liabilities. The Altman Z-score is a comomon metric for predicting bankruptcy risk and generally works well as a predictor a year out from a bankruptcy event, but performs less well at longer time frames. This project aims to improve on the Altman Z-score, especially over longer times._
+<img src="/images/four_day.jpg" alt="Four-Day Guitar Amplifier" width="200">
 
-[Final presentation](https://drive.google.com/file/d/0BzhZx0mGJKZ9SE9NVGlNNHV4YVE/view)
+<img src="/images/hiwatt.jpg" alt="Image of Hiwatt-Type Amplifier">
 
-[Overview](https://gist.github.com/heiberger/0db198079a14ceba5e8580e14fe38aa3)
+<img src="/images/red_combo.jpg" alt="Image of Red Combo Amplifier">
+
+<img src="/images/expedit.jpg" alt="Image of Expedit Amplifier">
 
 Many additional working files can be found at my Github Gist [pages](https://gist.github.com/heiberger).
   
