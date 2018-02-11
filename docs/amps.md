@@ -27,7 +27,8 @@ Cabinets are constructed using fine woods and finishes. Any type of wood can be 
 ### Promotions
 
 Contact us for special offers for 2018! New offers for the New Year! Better than ever! More text here!
-With the latest features!
+
+With the latest features! You could own one tomorrow...
 
 ### Pricing
 
