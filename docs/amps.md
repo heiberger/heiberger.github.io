@@ -10,6 +10,8 @@ We build custom amplifiers for hifi and guitar, using vacuum tubes (valves). All
 
 Almost any amplifier type can be made-to-order. We discuss the needs of the user and, in the case of guitar amplifiers, engage in an iterative process where we tailor the sound to suit the user. Amplifier can range from low-wattage single-ended amplifiers all the way to high-powered push-pull models suitable for the largest venues.
 
+Models can be single or multiple channel and can incoporate any desired features like effects loops, reverb, and adjustable output power.
+
 ### Sample Amplifiers
 
 <img src="/images/four_day.jpg" alt="Four-Day Guitar Amplifier" width="600">
