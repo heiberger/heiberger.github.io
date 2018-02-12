@@ -24,10 +24,6 @@ Cabinets are constructed using fine woods and finishes. Any type of wood can be 
 
 <img src="/images/expedit.jpg" alt="Image of Expedit Amplifier" width="600">
 
-### Promotions
-
-Testing other text
-
 ### Pricing
 
 Pricing starts at $20K. Email heiberger@gmail.com with your needs to get a specific estimate.
