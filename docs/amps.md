@@ -1,6 +1,6 @@
 # Custom Tube Amplifers
 
-| <img src="/images/hifi.jpg" alt="Image of HiFi Amplifier"> | <b>Promotions</b><br>New deals for 2018!<span> |
+| <img src="/images/hifi.jpg" alt="Image of HiFi Amplifier"> | <b>Promotions</b><br>tired of typing<span> |
 
 ### About
 
