@@ -26,7 +26,7 @@ Cabinets are constructed using fine woods and finishes. Any type of wood can be 
 
 ### Promotions
 
-Special on Amp Kits
+New Deals Coming Soon
 
 ### Pricing
 
