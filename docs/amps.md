@@ -1,6 +1,6 @@
 # Custom Tube Amplifers
 
-<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier">
+<img src="/images/hifi.jpg" alt="Image of HiFi Amplifier"> And some other text here
 
 ### About
 
@@ -26,7 +26,7 @@ Cabinets are constructed using fine woods and finishes. Any type of wood can be 
 
 ### Promotions
 
-Too many promotions
+Testing other text
 
 ### Pricing
 
