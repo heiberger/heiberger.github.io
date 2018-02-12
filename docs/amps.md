@@ -1,5 +1,6 @@
 # Custom Tube Amplifers
-
+|   | ### Specials |
+| ------------- | ------------- |
 | <img src="/images/hifi.jpg" alt="Image of HiFi Amplifier"> | ### Specials And some other text here |
 
 ### About
