@@ -21,4 +21,4 @@ Many additional working files can be found at my Github Gist [pages](https://gis
   
 ### Contact
 
-Please email heiberger@gmail.com or phone 6147-5408.
+Please email heiberger@gmail.com.
